@@ -135,7 +135,7 @@ We welcome contributions in the form of bug reports, feature requests, code cont
 
 ### **Code of Conduct**
 
-We expect all contributors to adhere to the **[Contributor Covenant](https://www.contributor-covenant.org/)**. Please be respectful and inclusive in your contributions and interactions with others.
+We expect all contributors to adhere to the **[Contributor Covenant](https://www.contributor-covenant.org/)**. Please be respectful and inclusive in your contributions and interactions with others. Thank you!
 
 
 
